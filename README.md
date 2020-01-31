@@ -39,7 +39,7 @@ This is an Analysis Tool for Algorithms in an attempt to create Minor-1 Project.
 - [Abhinav Sharma](https://github.com/ABSphreak)
 - [Aastha Rawat](https://github.com/aastharawat)
 - [Hemant Thakkar](https://github.com/hemant-thakkr)
-- [Jyotsna Bisht](#)
+- [Jyotsna Bisht](https://github.com/mystique24)
 
 ### License
 Licensed under [MIT License](LICENSE)
